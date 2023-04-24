@@ -1,0 +1,10 @@
+name: Hiun Kim
+markdown: kramdown
+highlighter: rouge
+future: true
+author:
+  name: Hiun Kim
+  email: example@example.com
+plugins:
+  - jekyll-feed
+permalink: /:title

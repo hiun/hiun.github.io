@@ -1,0 +1,58 @@
+[
+  {
+    "subject": "Method, Computer Device, and Computer Program to Recommend Products to Buy Together",
+    "authors": "Hiun Kim et al.",
+    "venue": "KR Patent App. 10-2022-0105755",
+    "date": "2022",
+    "link": "<a href=\"#\">[TBA]</a>"
+  },
+  {
+    "subject": "Intent-based Product Collections for E-commerce using Pretrained Language Models",
+    "authors": "Hiun Kim et al.",
+    "venue": "Proceedings of the 2021 International Conference on Data Mining Workshops (ICDMW)",
+    "date": "2021",
+    "link": "<a href=\"https://arxiv.org/abs/2110.08241\">[PDF]</a>"
+  },
+  {
+    "subject": "What Changes Can Large-scale Language Models Bring? Intensive Study on HyperCLOVA: Billions-scale Korean Generative Pretrained Transformers",
+    "authors": "B. Kim et al.",
+    "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021)",
+    "date": "2021",
+    "link": "<a href=\"https://arxiv.org/abs/2109.04650\">[PDF]</a>"
+  },
+  {
+    "subject": "Global-Local Item Embedding for Temporal Set Prediction",
+    "authors": "S. Jung et al.",
+    "venue": "Proceedings of the 15th ACM Conference on Recommender Systems (RecSys 2021 LBR Track)",
+    "date": "2021",
+    "link": "<a href=\"https://arxiv.org/abs/2109.02074\">[PDF]</a> <a href=\"https://dl.acm.org/doi/10.1145/3460231.3478844\">[ACM WEB]</a>"
+  },
+  {
+    "subject": "Method and System for Generating Product Groups based on User's Intent of Search Queries",
+    "authors": "J. Heo et al.",
+    "venue": "KR Patent App. 10-2021-0074800",
+    "date": "2021",
+    "link": "<a href=\"https://doi.org/10.8080/1020210074800\">[WEB]</a>"
+  },
+  {
+    "subject": "Method and System for Providing Special Sales Events based on User's Intent of Search Queries",
+    "authors": "J. Heo et al.",
+    "venue": "KR Patent App. 10-2021-0072956",
+    "date": "2021",
+    "link": "<a href=\"https://doi.org/10.8080/1020210072956\">[WEB]</a>"
+  },
+  {
+    "subject": "IoT-TaaS: Towards a Prospective IoT Testing Framework",
+    "authors": "Hiun Kim et al.",
+    "venue": "IEEE Access",
+    "date": "vol. 6, pp. 15480-15493, 2018",
+    "link": "<a href=\"https://ieeexplore.ieee.org/abstract/document/8281514\">[IEEE WEB]</a>"
+  },
+  {
+    "subject": "Object-orientation for Behavior Modeling and Composition",
+    "authors": "Hiun Kim",
+    "venue": "Proceedings of the 19th Korea Conference on Software Engineering (KCSE 2017)",
+    "date": "2017",
+    "link": "<a href=\"/pubs/oo.pdf\">[PDF]</a>"
+  }
+]

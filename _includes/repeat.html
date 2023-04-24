@@ -1,0 +1,10 @@
+{% assign times = (include.end | minus: include.start) %}
+
+{% for i in (0...times) %}
+
+{% assign altNumber = (i | plus: '1') %}
+{% assign imgNumber = (include.start | plus: i) %}
+
+![{{include.name}} {{ altNumber }}](/s/img/{{ imgNumber }}.jpg)
+
+{% endfor %}

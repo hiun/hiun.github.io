@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<h1 class="post-title"><a href="{{ page.permalink }}">{{ page.title }}</a></h1>
+<p class="post-date heading">{{ page.path | turncate: 10 | date: "%B %d, %Y" }}</p>
+
+<span class="post-body markdown-body">
+{{ content }}
+</span>
+
+{% if page.categories %}
+  {% assign category = page.categories[0] %}
+  {% assign posts = site.categories[category] %}
+  {% for post in posts %}
+    {% if post.url == page.url %}
+      {% assign nextIdx = forloop.index0 | minus: 1 %}
+      {% assign currentIdx = forloop.index0 %}
+      {% assign prevIdx = forloop.index0 | plus: 1 %}
+      {% assign prev_post = posts[prevIdx] %}
+      {% assign next_post = posts[nextIdx] %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+<hr>
+<div style="clear: both;">
+  {% if next_post.url and currentIdx != 0 %}
+    <span>
+      <a href="{{ next_post.url }}">&laquo; {{ next_post.title }}</a>
+    </span>
+  {% endif %}
+  {% if prev_post.url %}
+    <span style="float: right;">
+      <a href="{{ prev_post.url }}">{{ prev_post.title }} &raquo;</a>
+    </span>
+  {% endif %}
+</div>
+<br>
+
+{% include comment.html %}

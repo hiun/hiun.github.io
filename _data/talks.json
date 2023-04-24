@@ -1,0 +1,49 @@
+[
+	{
+		"title": "Intent-based Product Collections for E-commerce using Pretrained Language Models",
+		"date": "Dec. 7, 2021",
+		"link": "<a href=\"http://www2.kansai-u.ac.jp/dslab/workshop/2021/DMS2021/\">[WEB]</a>",
+		"venue": "IEEE International Workshop on Data Mining for Service (DMS2021)"
+	},
+	{
+		"title": "The product advertisement copy I see were actually written by AI?<br/>[네이버 어벤저스] 내가 보는 상품 홍보문구, 실은 AI가 썼다고?",
+		"date": "Aug. 30, 2021",
+		"link": "<a href=\"http://www.ddaily.co.kr/news/article/?no=220925\">[WEB]</a> <a href=\"https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=138&aid=0002109419\">[NAVER NEWS]</a>",
+		"venue": "Digital Daily (KR)"
+	},
+	{
+		"title": "Design and Implementation of AI Serving Platform<br/>밑바닥부터 만드는 인공지능 서빙 플랫폼",
+		"date": "Nov. 25, 2020",
+		"link": "<a href=\"https://bit.ly/2YrIFZ3\">[PDF]</a> <a href=\"https://deview.kr/2020/sessions/329\">[VIDEO]</a>",
+		"venue": "DEVIEW 2020 (KR)"
+	},
+	{
+		"title": "Object-orientation for Behavior Modeling and Composition",
+		"date": "Feb. 9, 2017",
+		"link": "<a href=\"/talks/oo-kcse2017.pdf\">[PDF]</a>",
+		"venue": "2017 Korea Conference on Software Engineering"
+	},
+	{
+		"title": "R : Location-based Community Service",
+		"date": "Dec. 19, 2015",
+		"link": "<a href=\"/talks/r-location-based-community-service.pdf\">[PDF]</a>"
+	},
+	{
+		"title": "JavaScript Web Applications",
+		"date": "Nov. 10, 2015",
+		"link": "<a href=\"/talks/javascript-web-applications.pdf\">[PDF]</a> <a href=\"http://divtag.sejong.edu/second-meetup\">[WEB]</a>",
+		"venue": "Divtag Developer Meetup"
+	},
+	{
+		"title": "Introduction to Software Engineering",
+		"date": "July 10, 2015",
+		"link": "<a href=\"/talks/introduction-to-software-engineering.pdf\">[PDF]</a>",
+	},
+	{
+		"title": "JavaScript Promise : Practical Example",
+		"date": "Oct. 8, 2014",
+		"link": "<a href=\"/talks/javascript-promise-practical-example.pdf\">[PDF]</a> <a href=\"http://divtag.sejong.edu/first-meetup\">[WEB]</a>",
+		"venue": "Divtag Developer Meetup"
+
+	}
+]

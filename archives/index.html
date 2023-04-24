@@ -1,0 +1,10 @@
+---
+layout: default
+title: Archives
+permalink: /archives
+---
+<a href="{{ page.link }}#essay" id="essay"><p class="subtitle">✏️ essay</p></a>
+
+{% for data in site.categories.essay %}
+  <p><a href="{{ data.url }}">{{ data.title }}</a>&nbsp;<span style="color: gray; font-size: 0.9em"> {{ data.date | date: "%b %d, %Y" }}</span></p>
+{% endfor %}

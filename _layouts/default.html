@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="title" content="Hiun Kim" />
+  <meta name="description" content="Hiun Kim" />
+  {% feed_meta %}
+<meta name="viewport" content="width=device-width">
+  <title>{{ page.title }} | {{ site.name }}</title>
+  <!-- icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.gravatar.com/avatar/88c94e86ee17d23e06907361e5533e99.jpg?s=144">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.gravatar.com/avatar/88c94e86ee17d23e06907361e5533e99.jpg?s=114">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.gravatar.com/avatar/88c94e86ee17d23e06907361e5533e99.jpg?s=72">
+  <link rel="apple-touch-icon-precomposed" href="https://www.gravatar.com/avatar/88c94e86ee17d23e06907361e5533e99.jpg?s=57">
+  <link rel="shortcut icon" href="https://www.gravatar.com/avatar/88c94e86ee17d23e06907361e5533e99.jpg?s=32">
+  <link rel="stylesheet" href="/s/css/github-markdown.min.css">
+
+  <!-- css -->
+  <link rel="stylesheet" href="/s/css/normalize.min.css">
+  <link rel="stylesheet" href="/s/css/main.css">
+  <link rel="stylesheet" href="/s/css/syntax.css">
+
+  <!-- css - layout specified -->
+  {% if page.layout == 'post' %}
+    <link rel="stylesheet" href="/s/css/post.css">
+  {% endif %}
+
+
+</head>
+<body>
+  <div id="content">
+    <div style="margin-top: 2.5em;"></div>
+    <h2><a href="/">Hiun Kim (김희언)</a><span style="text-align: right; float: right; font-weight: normal; font-size: 0.83em"> 
+      <a href="/archives">📝 archives</a>
+    </span></h2>
+    {{ content }}
+  </div>
+  <!-- javascript -->
+  <script src="/s/js/ga.js"></script>
+</body>
+</html>
