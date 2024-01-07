@@ -30,22 +30,22 @@ v gitignore 추가
 -->
 
 
-Research interests: <br />
+<b>Research interests:</b> <br />
 &bull; Designing and studying intelligent systems for information activities - models, evaluations, humans, society. <br />
 &bull; Information retrieval (IR), Natural language proc. (NLP), Computer vision (CV), Language models (LLMs). <br />
 
 
-Work Experience: <br />
+<b>Work Experience:</b> <br />
 &bull; ML/SW Engineer, NAVER (2017 ~ Present) <br />
 &bull; Co-Founder & SW Engineer, Divtag (2014-2016)<br />
 
 
-Education: <br />
+<b>Education:</b> <br />
 &bull; KAIST-NAVER AI Graduate Program, KAIST (2020)<br />
 &bull; BS in CSE, Sejong University (SJU) (2014-2018)<br />
 
 
-🌎 Projects: <br />
+<b>Projects:</b> <br />
 &bull; <a href="https://search.naver.com/search.naver?sm=tab_hty.top&where=image&query=%EC%84%9C%EC%9A%B8&oquery=%EC%84%9C%EB%B9%84%EC%8A%A4">Web Image Search</a> / ML (22-Present) <br />
 &bull; <a href="https://shopping.naver.com/">E-Commerce Search&RecSys</a> / ML (21-22) <br />
 &bull; <a href="https://clova.ai/ko/platform/">Model Serving Platform</a> / Backend (20-21) <br />
@@ -57,7 +57,7 @@ Education: <br />
 
 
 <div style="margin-top: 0.5em;"></div>
-✏️ Essay: <br />
+<b>Essay:</b> <br />
 {%- for data in site.categories.essay -%}
 &bull; <a href="{{ data.url }}">{{ data.title }}</a> &nbsp;<span style="color: gray; font-size: 0.9em"> {{ data.date | date: "'%y-%m" }}</span><br />
 {% endfor %}
