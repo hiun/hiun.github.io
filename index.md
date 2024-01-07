@@ -54,7 +54,6 @@ Education: <br />
 &bull; <a href="https://ece.unist.ac.kr/">UNIST ECE</a> / Systems (16) <br />
 &bull; <a href="https://divtag.sejong.edu/">Divtag</a> / Backend&Frontend (14-16) <br />
 &bull; <a href="#">Partner</a> / Backend (14) <br />
-&bull; <a href="https://eng.sejong.ac.kr">SEJONG U</a> / CSE (14-18) <br />
 
 
 <div style="margin-top: 0.5em;"></div>
