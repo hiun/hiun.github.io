@@ -29,12 +29,10 @@ v gitignore 추가
 여행 블로그 글 복원? 검토.
 -->
 
-<div style="margin-top: 0.5em;"></div>
-✏️ Essay: <br />
-{%- for data in site.categories.essay -%}
-&bull; <a href="{{ data.url }}">{{ data.title }}</a> &nbsp;<span style="color: gray; font-size: 0.9em"> {{ data.date | date: "'%y-%m" }}</span><br />
-{% endfor %}
-<div style="margin-bottom: 0.5em;"></div>
+
+😃 My interests: <br />
+&bull; Designing and studying intelligent systems for information activities - models, evaluations, humans, society. <br />
+&bull; Information retrieval (IR), Natural language proc. (NLP), Computer vision (CV), Language models (LLMs). <br />
 
 🌎 Projects: <br />
 &bull; <a href="https://search.naver.com/search.naver?sm=tab_hty.top&where=image&query=%EC%84%9C%EC%9A%B8&oquery=%EC%84%9C%EB%B9%84%EC%8A%A4">Web Image Search</a> / ML (22-Present) <br />
@@ -47,9 +45,13 @@ v gitignore 추가
 &bull; <a href="#">Partner</a> / Backend (14) <br />
 &bull; <a href="https://eng.sejong.ac.kr">SEJONG U</a> / CSE (14-18) <br />
 
-😃 My interests: <br />
-&bull; Designing and studying intelligent systems for information activities - models, evaluations, humans, society. <br />
-&bull; Information retrieval (IR), Natural language proc. (NLP), Computer vision (CV), Language models (LLMs). <br />
+
+<div style="margin-top: 0.5em;"></div>
+✏️ Essay: <br />
+{%- for data in site.categories.essay -%}
+&bull; <a href="{{ data.url }}">{{ data.title }}</a> &nbsp;<span style="color: gray; font-size: 0.9em"> {{ data.date | date: "'%y-%m" }}</span><br />
+{% endfor %}
+<div style="margin-bottom: 0.5em;"></div>
 
 <!--
 <p>&bull; I'd like to achieve better economic, and social results through this work.</p>
