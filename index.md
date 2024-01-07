@@ -2,7 +2,7 @@
 layout: home
 title: Home
 ---
-SW/ML Engineer, NAVER
+ML/SW Engineer, NAVER
 <p>
 <a href="https://linkedin.com/in/hiun">[linkedin]</a>&nbsp;&nbsp;
 <a href="https://github.com/hiun">[github]</a>&nbsp;&nbsp;
@@ -33,6 +33,17 @@ v gitignore 추가
 Research interests: <br />
 &bull; Designing and studying intelligent systems for information activities - models, evaluations, humans, society. <br />
 &bull; Information retrieval (IR), Natural language proc. (NLP), Computer vision (CV), Language models (LLMs). <br />
+
+
+Work Experience: <br />
+&bull; ML/SW Engineer, NAVER (2017 ~ Present) <br />
+&bull; Co-Founder & SW Engineer, Divtag (2014-2016)<br />
+
+
+Education: <br />
+&bull; KAIST-NAVER AI Graduate Program, KAIST (2020)<br />
+&bull; BS in CSE, Sejong University (SJU) (2014-2018)<br />
+
 
 🌎 Projects: <br />
 &bull; <a href="https://search.naver.com/search.naver?sm=tab_hty.top&where=image&query=%EC%84%9C%EC%9A%B8&oquery=%EC%84%9C%EB%B9%84%EC%8A%A4">Web Image Search</a> / ML (22-Present) <br />
