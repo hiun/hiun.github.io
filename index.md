@@ -2,7 +2,7 @@
 layout: home
 title: Home
 ---
-Software / Machine Learning Engineer, NAVER
+SW/ML Engineer, NAVER
 <p>
 <a href="https://linkedin.com/in/hiun">[linkedin]</a>&nbsp;&nbsp;
 <a href="https://github.com/hiun">[github]</a>&nbsp;&nbsp;
@@ -48,10 +48,8 @@ v gitignore 추가
 &bull; <a href="https://eng.sejong.ac.kr">SEJONG U</a> / CSE (14-18) <br />
 
 😃 My interests: <br />
-&bull; I am interested in the process of producing and managing information. <br />
-&bull; I'd like to know more about people who are in the process of getting something, and people who are in the circumstance of communicating something. <br />
-&bull; More specifically, I am interested in services, businesses, or technology to help users better connect and communicate with their wanted products and services. <br />
-&bull; Topics include search services, recommendation services, and advertising services. <br />
+&bull; Designing and studying intelligent systems for information activities - models, evaluations, humans, society. <br />
+&bull; Information retrieval (IR), Natural language proc. (NLP), Computer vision (CV), Language models (LLMs). <br />
 
 <!--
 <p>&bull; I'd like to achieve better economic, and social results through this work.</p>
