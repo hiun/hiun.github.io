@@ -30,7 +30,7 @@ v gitignore 추가
 -->
 
 
-😃 My interests: <br />
+Research interests: <br />
 &bull; Designing and studying intelligent systems for information activities - models, evaluations, humans, society. <br />
 &bull; Information retrieval (IR), Natural language proc. (NLP), Computer vision (CV), Language models (LLMs). <br />
 
