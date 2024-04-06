@@ -78,12 +78,12 @@ Link: {{ paper.link }}<br>
 
 <div style="margin-top: 2.5em;"></div>
 <p class="subtitle">Patents:</p>
-{% for pr in site.data.patents %}
+{% for pa in site.data.patents %}
 <p>
-<b>{{ paper.subject }}</b> <br>
-<span>{{ paper.authors }}</span> <br>
-<i>{{ paper.venue }}</i> <br>
-Link: {{ paper.link }}<br>
+<b>{{ pa.subject }}</b> <br>
+<span>{{ pa.authors }}</span> <br>
+<i>{{ pa.venue }}</i> <br>
+Link: {{ pa.link }}<br>
 </p>
 {% endfor %}
 
