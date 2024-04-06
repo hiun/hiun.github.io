@@ -45,13 +45,14 @@ Education: <br />
 &bull; BS in CSE, Sejong University (SJU) (2014-2018)<br />
 &bull; NLP (company supported graduate program), KAIST (2020)<br />
 
-
+<!--
 <div style="margin-top: 0.5em;"></div>
 Essay: <br />
 {%- for data in site.categories.essay -%}
 &bull; <a href="{{ data.url }}">{{ data.title }}</a> &nbsp;<span style="color: gray; font-size: 0.9em"> {{ data.date | date: "'%y-%m" }}</span><br />
 {% endfor %}
 <div style="margin-bottom: 0.5em;"></div>
+-->
 
 <!--
 <p>&bull; I'd like to achieve better economic, and social results through this work.</p>
@@ -59,12 +60,12 @@ Essay: <br />
 -->
 <!--publications-->
 <div style="margin-top: 2.5em;"></div>
-<p class="subtitle">📚 publications</p>
+Publications:
 {% for paper in site.data.papers %}
 <p>
 <b>{{ paper.subject }}</b> <br>
-<span>by {{ paper.authors }}</span> <br>
-In <i>{{ paper.venue }}</i>, <span>{{ paper.date }}</span> <br>
+<span>{{ paper.authors }}</span> <br>
+{{ paper.venue }} <br>
 Link: {{ paper.link }}<br>
 </p>
 {% endfor %}
@@ -79,9 +80,9 @@ Link: {{ paper.link }}<br>
 <p class="subtitle">⭐ talks & misc.</p>
 {% for pr in site.data.talks %}
 <p>
-<b>"{{ pr.title }}"</b> <br>
+{{ pr.title }} <br>
 {% if pr.venue %}
-  In <i>{{ pr.venue }}</i>,
+  <i>{{ pr.venue }}</i>,
 {% endif %}
 <span>{{ pr.date }}</span> <br>
 Link: {{ pr.link }}<br>
