@@ -30,18 +30,18 @@ v gitignore 추가
 -->
 
 
-Research Interests: <br />
+<b>Research Interests:</b> <br />
 Information Retrieval, Natural Language Processing <br />
 
-Industrial Experience: <br />
+<b>Industrial Experience:</b> <br />
 Search, RecSys, Ads, Media, Communications <br />
 
-Employment: <br />
+<b>Employment:</b> <br />
 &bull; ML/SW Engineer, NAVER (2017 ~ Present) <br />
 &bull; Co-Founder & SW Engineer, Divtag (2014-2016)<br />
 
 
-Education: <br />
+<b>Education:</b> <br />
 &bull; BS in CSE, Sejong University (SJU) (2014-2018)<br />
 &bull; NLP (company supported graduate program), KAIST (2020)<br />
 
@@ -60,7 +60,7 @@ Essay: <br />
 -->
 <!--publications-->
 <div style="margin-top: 2.5em;"></div>
-Publications:
+<p class="subtitle">Publications:</p>
 {% for paper in site.data.papers %}
 <p>
 <b>{{ paper.subject }}</b> <br>
@@ -77,10 +77,10 @@ Link: {{ paper.link }}<br>
 
 <!--talks-->
 <div style="margin-top: 2.5em;"></div>
-<p class="subtitle">⭐ talks & misc.</p>
+<p class="subtitle">Presentations:</p>
 {% for pr in site.data.talks %}
 <p>
-{{ pr.title }} <br>
+<b>{{ pr.title }}</b> <br>
 {% if pr.venue %}
   <i>{{ pr.venue }}</i>,
 {% endif %}
