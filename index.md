@@ -65,13 +65,28 @@ Essay: <br />
 <p>
 <b>{{ paper.subject }}</b> <br>
 <span>{{ paper.authors }}</span> <br>
-{{ paper.venue }} <br>
+<i>{{ paper.venue }}</i> <br>
 Link: {{ paper.link }}<br>
 </p>
 {% endfor %}
 <!--
 <p><i style="color: gray;"><a href="/pubs">more &raquo;</a></i></p>
 -->
+
+
+
+
+<div style="margin-top: 2.5em;"></div>
+<p class="subtitle">Patents:</p>
+{% for pr in site.data.patents %}
+<p>
+<b>{{ paper.subject }}</b> <br>
+<span>{{ paper.authors }}</span> <br>
+<i>{{ paper.venue }}</i> <br>
+Link: {{ paper.link }}<br>
+</p>
+{% endfor %}
+
 
 
 
