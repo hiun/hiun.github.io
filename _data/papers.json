@@ -1,28 +1,28 @@
 [
   {
     "subject": "Intent-based Product Collections for E-commerce using Pretrained Language Models",
-    "authors": "Hiun Kim et al.",
+    "authors": "Hiun Kim, Jisu Jeong, Kyung-Min Kim, Dongjun Lee, Hyun Dong Lee, Dongpil Seo, Jeeseung Han, Dong Wook Park, Ji Ae Heo, Rak Yeong Kim",
     "venue": "IEEE International Conference on Data Mining (ICDM) Workshop",
     "date": "2021",
     "link": "<a href=\"https://arxiv.org/abs/2110.08241\">[PDF]</a>"
   },
   {
     "subject": "What Changes Can Large-scale Language Models Bring? Intensive Study on HyperCLOVA: Billions-scale Korean Generative Pretrained Transformers",
-    "authors": "B. Kim et al.",
+    "authors": "Boseop Kim, HyoungSeok Kim, Sang-Woo Lee, Gichang Lee, Donghyun Kwak, Dong Hyeon Jeon, Sunghyun Park, Sungju Kim, Seonhoon Kim, Dongpil Seo et al.",
     "venue": "Empirical Methods in Natural Language Processing (EMNLP)",
     "date": "2021",
     "link": "<a href=\"https://arxiv.org/abs/2109.04650\">[PDF]</a>"
   },
   {
     "subject": "Global-Local Item Embedding for Temporal Set Prediction",
-    "authors": "S. Jung et al.",
+    "authors": "Seungjae Jung, Young-Jin Park, Jisu Jeong, Kyung-Min Kim, Hiun Kim, Minkyu Kim, Hanock Kwak",
     "venue": "ACM Recommender Systems (RecSys), Late-Breaking Results",
     "date": "2021",
     "link": "<a href=\"https://arxiv.org/abs/2109.02074\">[PDF]</a> <a href=\"https://dl.acm.org/doi/10.1145/3460231.3478844\">[ACM WEB]</a>"
   },
   {
     "subject": "IoT-TaaS: Towards a Prospective IoT Testing Framework",
-    "authors": "Hiun Kim et al.",
+    "authors": "Hiun Kim, Abbas Ahmad, Jaeyoung Hwang, Hamza Baqa, Franck Le Gall, Miguel Angel Reina Ortega, JaeSeung Song",
     "venue": "IEEE Access 2018 (Vol. 6, 15480-15493) [IF: 4.098]",
     "date": "2018",
     "link": "<a href=\"https://ieeexplore.ieee.org/abstract/document/8281514\">[IEEE WEB]</a>"
@@ -33,26 +33,5 @@
     "venue": "Korea Conference on Software Engineering (KCSE)",
     "date": "2017",
     "link": "<a href=\"/pubs/oo.pdf\">[PDF]</a>"
-  },
-  {
-    "subject": "Method and System for Providing Special Sales Events based on User's Intent of Search Queries",
-    "authors": "J. Heo et al.",
-    "venue": "Registered KR Patent 10-2615815",
-    "date": "2023",
-    "link": "<a href=\"https://doi.org/10.8080/1020210072956\">[WEB]</a>"
-  },
-  {
-    "subject": "Method, Computer Device, and Computer Program to Recommend Products to Buy Together",
-    "authors": "Hiun Kim et al.",
-    "venue": "KR Patent App. 10-2022-0105755",
-    "date": "2022",
-    "link": "<a href=\"#\">[TBA]</a>"
-  },
-  {
-    "subject": "Method and System for Generating Product Groups based on User's Intent of Search Queries",
-    "authors": "J. Heo et al.",
-    "venue": "KR Patent App. 10-2021-0074800",
-    "date": "2021",
-    "link": "<a href=\"https://doi.org/10.8080/1020210074800\">[WEB]</a>"
   }
 ]
