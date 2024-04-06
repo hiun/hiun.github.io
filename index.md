@@ -65,7 +65,7 @@ Essay: <br />
 <p>
 <b>{{ paper.subject }}</b> <br>
 <span>{{ paper.authors }}</span> <br>
-<i>{{ paper.venue }}</i>, <span>{{ pr.date }}</span> <br>
+<i>{{ paper.venue }}</i>, <span>{{ paper.date }}</span> <br>
 Link: {{ paper.link }}<br>
 </p>
 {% endfor %}
