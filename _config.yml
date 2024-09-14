@@ -3,7 +3,7 @@ markdown: kramdown
 highlighter: rouge
 future: true
 author:
-  name: Hiun Kim
+  name: HI-UN KIM (김희언)
   email: example@example.com
 plugins:
   - jekyll-feed
