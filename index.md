@@ -29,7 +29,7 @@ v gitignore 추가
 여행 블로그 글 복원? 검토.
 -->
 
-
+<!--
 <b>Research Interests:</b> <br />
 Information Retrieval, Natural Language Processing <br />
 
@@ -44,6 +44,7 @@ Search, RecSys, Ads, Media, Communications <br />
 <b>Education:</b> <br />
 &bull; BS in CSE, Sejong University (SJU) (2014-2018)<br />
 &bull; NLP (company supported graduate program), KAIST (2020)<br />
+-->
 
 <!--
 <div style="margin-top: 0.5em;"></div>
@@ -59,6 +60,8 @@ Essay: <br />
 <p>&bull; I'd like to have purposeful studies, and experiences for this goal. :)</p>
 -->
 <!--publications-->
+
+<!--
 <div style="margin-top: 2.5em;"></div>
 <p class="subtitle">Publications:</p>
 {% for paper in site.data.papers %}
@@ -69,13 +72,15 @@ Essay: <br />
 Link: {{ paper.link }}<br>
 </p>
 {% endfor %}
+-->
+
 <!--
 <p><i style="color: gray;"><a href="/pubs">more &raquo;</a></i></p>
 -->
 
 
 
-
+<!--
 <div style="margin-top: 2.5em;"></div>
 <p class="subtitle">Patents:</p>
 {% for pa in site.data.patents %}
@@ -86,11 +91,12 @@ Link: {{ paper.link }}<br>
 Link: {{ pa.link }}<br>
 </p>
 {% endfor %}
-
+-->
 
 
 
 <!--talks-->
+<!--
 <div style="margin-top: 2.5em;"></div>
 <p class="subtitle">Presentations:</p>
 {% for pr in site.data.talks %}
@@ -103,6 +109,8 @@ Link: {{ pa.link }}<br>
 Link: {{ pr.link }}<br>
 </p>
 {% endfor %}
+-->
+
 <!--
 <p><i style="color: gray;"><a href="/talks">more &raquo;</a></i></p>
 -->
