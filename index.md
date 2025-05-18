@@ -12,19 +12,21 @@ You can visit my <a href="https://linkedin.com/in/hiun">LinkedIn</a> or <a href=
 Here is the list of papers based on some of my work (you can also try <a href="https://scholar.google.co.kr/citations?user=PdyEHY4AAAAJ&hl=en">Google Scholar</a>):
 
 
-
+<ol>
 {% for paper in site.data.papers %}
-<p>
+<li>
 {{ paper.authors }}. {{ paper.subject }}. {{ paper.venue }}. {{ paper.date }}. {% if paper.link %}{{ paper.link }}{% endif %}.
-</p>
+</li>
 {% endfor %}
-
+</ol>
 
 
 ## patents
 
+<ol>
 {% for paper in site.data.patents %}
-<p>
-{{ paper.authors }}. {{ paper.subject }}. {{ paper.venue }}. {{ paper.date }}. {{ paper.link }}.
-</p>
+<li>
+{{ paper.authors }}. {{ paper.subject }}. {{ paper.venue }}. {{ paper.link }}.
+</li>
 {% endfor %}
+</ol>
