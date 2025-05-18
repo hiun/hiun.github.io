@@ -7,4 +7,4 @@ author:
   email: example@example.com
 plugins:
   - jekyll-feed
-permalink: /:title
+permalink: /notes/:year:month:day
