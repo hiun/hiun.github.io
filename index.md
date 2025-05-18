@@ -15,7 +15,7 @@ Here is the list of papers based on some of my work (you can also try <a href="h
 
 {% for paper in site.data.papers %}
 <p>
-{{ paper.authors }}. {{ paper.subject }}. {{ paper.venue }}. {{ paper.date }}. [LINK].
+{{ paper.authors }}. {{ paper.subject }}. {{ paper.venue }}. {{ paper.date }}. {{ paper.link }}.
 </p>
 {% endfor %}
 
@@ -25,6 +25,6 @@ Here is the list of papers based on some of my work (you can also try <a href="h
 
 {% for paper in site.data.patents %}
 <p>
-{{ paper.authors }}. {{ paper.subject }}. {{ paper.venue }}. {{ paper.date }}. [LINK].
+{{ paper.authors }}. {{ paper.subject }}. {{ paper.venue }}. {{ paper.date }}. {{ paper.link }}.
 </p>
 {% endfor %}
