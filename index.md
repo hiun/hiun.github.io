@@ -15,7 +15,7 @@ Here is the list of papers based on some of my work (you can also try <a href="h
 <ol>
 {% for paper in site.data.papers %}
 <li>
-{{ paper.authors }}. {{ paper.subject }}. {{ paper.venue }}. {{ paper.date }}. {% if paper.link %}{{ paper.link }}{% endif %}.
+{{ paper.authors }}. {{ paper.subject }}. {{ paper.venue }}. {{ paper.date }}. {% if paper.link %}{{ paper.link }}.{% endif %}
 </li>
 {% endfor %}
 </ol>
