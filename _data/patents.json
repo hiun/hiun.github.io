@@ -1,20 +1,32 @@
 [
   {
+    "subject": "Method, Computer Device, and Computer Program to Recommend Products to Buy Together",
+    "authors": "Hiun Kim, Rakyeong Kim, Jisu Jeong",
+    "venue": "KR Patent 10-2739833 (2024)",
+    "link": "<a href=\"https://doi.org/10.8080/1020220105755">[WEB]</a>"
+  },
+  {
     "subject": "Method and System for Generating Product Groups based on User's Intent of Search Queries",
     "authors": "Jiae Heo, Dongjun Lee, Hiun Kim, Jooho Lee, Hyunah Kim, Dongpil Seo, Hyundong Lee, Jisu Jeong",
-    "venue": "KR Patent 10-2648300 (2024), JP Patent App 2022-188759 (2022)",
-    "link": "<a href=\"https://doi.org/10.8080/1020210074800?urlappend=en\">[WEB]</a>"
+    "venue": "KR Patent 10-2648300 (2024)",
+    "link": "<a href=\"https://doi.org/10.8080/1020210074800">[WEB]</a>"
   },
   {
     "subject": "Method and System for Providing Special Sales Events based on User's Intent of Search Queries",
     "authors": "Jiae Heo, Dongjun Lee, Hiun Kim, Jooho Lee, Hyunah Kim, Dongpil Seo, Hyundong Lee, Jisu Jeong",
-    "venue": "KR Patent 10-2615815 (2023), JP Patent 7417877 (2024)",
-    "link": "<a href=\"https://doi.org/10.8080/1020210072956?urlappend=en\">[WEB]</a>"
+    "venue": "KR Patent 10-2615815 (2023)",
+    "link": "<a href=\"https://doi.org/10.8080/1020210072956\">[WEB]</a>"
   },
   {
-    "subject": "Method, Computer Device, and Computer Program to Recommend Products to Buy Together",
-    "authors": "Hiun Kim, Rakyeong Kim, Jisu Jeong",
-    "venue": "KR Patent App. 10-2022-0105755 (2022)",
-    "link": "<a href=\"https://doi.org/10.8080/1020220105755?urlappend=en\">[WEB]</a>"
-  }
+    "subject": "検索クエリのユーザ意図に基づいた商品群生成方法及びシステム",
+    "authors": "Jiae Heo, Dongjun Lee, Hiun Kim, Jooho Lee, Hyunah Kim, Dongpil Seo, Hyundong Lee, Jisu Jeong",
+    "venue": "JP Patent 7513656 (JP Patent of KR 10-2648300) (2024)",
+    "link": "<a href=\"https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2022-188759/DFEDE728EFC53F2EAABF855615272283D1F1984DD1FBF71D8BDF3B0C983B8292/11/ja\">[WEB]</a>"
+  },
+  {
+    "subject": "検索クエリのユーザ意図に基づいた特売イベント生成方法及びシステム",
+    "authors": "Jiae Heo, Dongjun Lee, Hiun Kim, Jooho Lee, Hyunah Kim, Dongpil Seo, Hyundong Lee, Jisu Jeong",
+    "venue": "JP Patent 7417877 (JP Patent of KR 10-2615815) (2024)",
+    "link": "<a href=\"https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2022-186632/28892CC789C8066FAF07814BAC89C0CE59272DDE897346F39EDFF8931C5F3461/11/ja\">[WEB]</a>"
+  },
 ]
