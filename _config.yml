@@ -1,5 +1,5 @@
 name: HI-UN KIM (김희언)
-markdown: kramdown
+markdown: GFM
 highlighter: rouge
 future: true
 author:
