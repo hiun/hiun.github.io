@@ -1,9 +1,9 @@
-name: HI-UN KIM (김희언)
+name: Hiun Kim
 markdown: GFM
 highlighter: rouge
 future: true
 author:
-  name: HI-UN KIM (김희언)
+  name: Hiun Kim
   email: example@example.com
 plugins:
   - jekyll-feed
