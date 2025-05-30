@@ -6,7 +6,11 @@
   <meta name="description" content="{{site.name}}" />
   {% feed_meta %}
 <meta name="viewport" content="width=device-width">
+  {% if page.layout == 'home' %}
+  <title>{{ site.name }}</title>
+  {% else %}
   <title>{{ page.title }} | {{ site.name }}</title>
+  {% endif %}
   <!-- icons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.gravatar.com/avatar/88c94e86ee17d23e06907361e5533e99.jpg?s=144">
   <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.gravatar.com/avatar/88c94e86ee17d23e06907361e5533e99.jpg?s=114">
@@ -33,7 +37,7 @@
 <body>
   <div id="content">
     <div style="margin-top: 2.5em;"></div>
-    <h2><a href="/">{{site.name}}</a><span style="text-align: right; float: right; font-weight: normal; font-size: 0.83em"> 
+    <h2><a href="/">HI-UN KIM (김희언)</a><span style="text-align: right; float: right; font-weight: normal; font-size: 0.83em"> 
       <a href="/notes">📝 notes</a>
     </span></h2>
     {{ content }}
