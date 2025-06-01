@@ -3,7 +3,7 @@ layout: default
 title: Notes
 permalink: /notes
 ---
-<a href="{{ page.link }}#notes" id="notes"><p class="subtitle">notes</p></a>
+<a href="{{ page.link }}#notes" id="notes"><p class="subtitle">daily writings (일상 기록)</p></a>
 
 {% for data in site.categories.notes %}
   <p><a href="{{ data.url }}">{{ data.title }}</a>&nbsp;<span style="color: gray; font-size: 0.9em"> {{ data.date | date: "%b %d, %Y" }}</span></p>
