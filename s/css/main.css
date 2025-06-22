@@ -42,10 +42,6 @@ body {
 		padding: 10px;
 	}
 
-	p, ul {
-		font-size: 0.9em;
-	}
-
 	.menu {
 		float: none;
 		display: block;
