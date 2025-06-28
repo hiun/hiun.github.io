@@ -5,11 +5,9 @@ title: Home
 
 Hiun Kim is an ML engineer on the Naver Search team, working on machine learning for search models with vision and language technologies. Previously, he was an engineer on the Naver Clova team, where he worked on dialog systems, recommendation models, and generative models for local and e-commerce businesses in the East Asian market. Before that, he was an engineer on Naver’s Platform team, focusing on software engineering for web and serving systems.
 
-He is broadly interested in the topic of 1) machine learned (or symbolic) pattern prediction, 2) and applications of these for varying modalities and human activities (e.g. language, vision, sequences), 3) and leverage it for better information mediation. He is interested in helping cultivate better information as well.
+He is broadly interested in the topic of 1) machine learned (or symbolic) pattern prediction, 2) and applications of these for varying modalities and human activities (e.g. language, vision, sequences), 3) and leverage it for better information mediation. He is also interested in helping cultivate better information. Some related topics are Machine learning, Natural language processing, and Information retrieval.
 
-Topics include: Machine learning, Natural language processing, and Information retrieval.
-
-From the practitioner's point of view, he is interested in the development of information products and energies, and studying better methods of transferring developed information products and energies from the energy source of users to the energy source of providers, starting with related supply and demand development, ranging from the medium of "active" question answering to "passive" content exploration, while also taking public concerns into account.
+Concerning the real world of information mediation, I'd like to study and practice the development of information products as energies and study better and healthier methods of transferring developed information energies from the source of users to the source of providers, starting with related supply and demand development, ranging from the medium of "active" question answering to "passive" content exploration, while also taking public concerns into account.
 
 You can visit my <a href="https://linkedin.com/in/hiun">LinkedIn</a> or <a href="https://github.com/hiun">GitHub</a>.
 
