@@ -7,6 +7,12 @@
 
 /* responsive body */
 
+html {
+	font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, 'Apple SD Gothic Neo', NanumBarunGothic, 'Malgun Gothic', dotum, 'Lucida Grande', sans-serif;
+	font-weight: 400;
+	background: #f7f6f1; 
+}
+
 body {
 	width: 870px;
 	padding: 20px;
@@ -69,12 +75,6 @@ body {
 /* 
 	skin 
 */
-
-html {
-	font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, 'Apple SD Gothic Neo', NanumBarunGothic, 'Malgun Gothic', dotum, 'Lucida Grande', sans-serif;
-	font-weight: 400;
-	background: #f7f6f1; 
-}
 
 .site-title {
 	font-size: 1.6em;
