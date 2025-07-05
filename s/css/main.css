@@ -37,11 +37,21 @@ body {
 }
 
 @media (max-width: 720px) {
+
+	html {
+		background: #ffffff; 
+	}
+	
 	body {
 		width: auto;
 		padding: 10px;
 	}
 
+	#content {
+		padding: 0 0px;
+		border-width: 0px;
+	}
+	
 	.menu {
 		float: none;
 		display: block;
