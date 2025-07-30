@@ -20,25 +20,25 @@ You can visit my <a href="https://linkedin.com/in/hiun">LinkedIn</a> or <a href=
 
 These are the papers among my works that I can share publicly (you can also try <a href="https://scholar.google.co.kr/citations?user=PdyEHY4AAAAJ&hl=en">Google Scholar</a>):
 
-
-<ol>
 {% for paper in site.data.papers %}
-<li>
-{{ paper.authors }}. {{ paper.subject }}. {{ paper.venue }}. {{ paper.date }}. {% if paper.link %}{{ paper.link }}.{% endif %}
-</li>
+<b>{{ paper.subject }}</b>
+<p>{{ paper.authors }}</p>
+<i>{{ paper.venue }}. {{ paper.date }}.</i>
+<p>{% if paper.link %}{{ paper.link }}.{% endif %}</p>
 {% endfor %}
-</ol>
+
 
 
 ## patents
 
-<ol>
 {% for paper in site.data.patents %}
-<li>
-{{ paper.authors }}. {{ paper.subject }}. {{ paper.venue }}. {{ paper.link }}.
-</li>
+<b>{{ paper.subject }}</b>
+<p>{{ paper.authors }}</p>
+<i>{{ paper.venue }}</i>
+<p>{% if paper.link %}{{ paper.link }}.{% endif %}</p>
 {% endfor %}
-</ol>
+
+
 
 ## misc
 
