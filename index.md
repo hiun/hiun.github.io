@@ -3,6 +3,8 @@ layout: home
 title: Home
 ---
 
+<img src="/s/img/profile-linkedin-dist-20250730.jpeg" class="profile-img">
+
 Hiun Kim is an ML engineer on the Naver Search team, working on machine learning for search models with vision and language technologies. Previously, he was an engineer on the Naver Clova team, where he worked on dialog systems, recommendation models, and generative models for local and e-commerce businesses in the East Asian market. Before that, he was an engineer on Naver’s Platform team, focusing on software engineering for web and serving systems.
 
 {% assign focus_area = "These days my focus is on the topic of 1) machine learned (or symbolic) pattern prediction, 2) and applications of these for varying modalities and human activities (e.g. language, vision, sequences), 3) and leverage it to help people to understand our private and public world better, by cultivating, developing, and transferring information and support better. I wish the enhanced productivity originating from these can provide balanced opportunities, and promote equity in individuals, within societies, and between countries. Some related topics are Machine learning, Natural language processing, and Information retrieval." %}
