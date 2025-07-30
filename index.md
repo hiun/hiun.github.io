@@ -14,7 +14,8 @@ Hiun Kim is an ML engineer on the Naver Search team, working on machine learning
 -->
 
 You can visit my <a href="https://linkedin.com/in/hiun">LinkedIn</a> or <a href="https://github.com/hiun">GitHub</a>.
-My Email is hiunkim [dot] me [at] gmail.com
+
+My email is hiunkim.me [at] gmail.com
 
 ## papers
 
