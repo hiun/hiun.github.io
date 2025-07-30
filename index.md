@@ -14,7 +14,7 @@ Hiun Kim is an ML engineer on the Naver Search team, working on machine learning
 -->
 
 You can visit my <a href="https://linkedin.com/in/hiun">LinkedIn</a> or <a href="https://github.com/hiun">GitHub</a>.
-
+My Email is hiunkim [dot] me [at] gmail.com
 
 ## papers
 
@@ -25,7 +25,6 @@ These are the papers among my works that I can share publicly (you can also try 
 <span>{{ paper.authors }}</span>
 <span style="font-weight:italic">{{ paper.venue }}. {{ paper.date }}.</span>
 {% if paper.link %}<span>{{ paper.link }}</span>{% endif %}
-<br/>
 <br/>
 {% endfor %}
 
@@ -38,7 +37,6 @@ These are the papers among my works that I can share publicly (you can also try 
 <span>{{ paper.authors }}</span>
 <span style="font-weight:italic">{{ paper.venue }}</span>
 {% if paper.link %}<span>{{ paper.link }}</span>{% endif %}
-<br/>
 <br/>
 {% endfor %}
 
