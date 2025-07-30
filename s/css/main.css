@@ -46,6 +46,10 @@ body {
 	float: right;
 }
 
+.profile-img {
+	width: 30%
+}
+
 @media (max-width: 720px) {
 
 	html {
@@ -66,6 +70,10 @@ body {
 		float: none;
 		display: block;
 		margin-top: 1em;
+	}
+
+	.profile-img {
+		width: 50%
 	}
 }
 
