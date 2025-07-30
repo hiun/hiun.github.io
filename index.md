@@ -21,10 +21,12 @@ You can visit my <a href="https://linkedin.com/in/hiun">LinkedIn</a> or <a href=
 These are the papers among my works that I can share publicly (you can also try <a href="https://scholar.google.co.kr/citations?user=PdyEHY4AAAAJ&hl=en">Google Scholar</a>):
 
 {% for paper in site.data.papers %}
-<b>{{ paper.subject }}</b>
-<p>{{ paper.authors }}</p>
-<i>{{ paper.venue }}. {{ paper.date }}.</i>
-<p>{% if paper.link %}{{ paper.link }}.{% endif %}</p>
+<span style="font-weight:bold">{{ paper.subject }}</span><br/>
+<span>{{ paper.authors }}</span><br/>
+<span style="font-weight:italic">{{ paper.venue }}. {{ paper.date }}.</span><br/>
+{% if paper.link %}<span>{{ paper.link }}</span><br/>{% endif %}
+<br/>
+<br/>
 {% endfor %}
 
 
@@ -32,10 +34,12 @@ These are the papers among my works that I can share publicly (you can also try 
 ## patents
 
 {% for paper in site.data.patents %}
-<b>{{ paper.subject }}</b>
-<p>{{ paper.authors }}</p>
-<i>{{ paper.venue }}</i>
-<p>{% if paper.link %}{{ paper.link }}.{% endif %}</p>
+<span style="font-weight:bold">{{ paper.subject }}</span><br/>
+<span>{{ paper.authors }}</span><br/>
+<span style="font-weight:italic">{{ paper.venue }}</span><br/>
+{% if paper.link %}<span>{{ paper.link }}</span><br/>{% endif %}
+<br/>
+<br/>
 {% endfor %}
 
 
