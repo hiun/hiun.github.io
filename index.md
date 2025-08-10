@@ -9,7 +9,7 @@ title: Home
 
 Hiun Kim is a research engineer at Naver Search and Clova team, where he focuses on machine learning, natural language processing, and information retrieval. Previously, he was a software engineer at Naver’s platform team.
 
-I think focusing can be important, but generally, I’d like to prevent research activities from being continuously bound to particular technical methods or approaches, as that can do research right, but does not always lead to the right research.
+I think focusing can be important, but generally, I’d like to prevent research activities from being kept bound to particular approaches or consensus understandings, as that can do research right, but does not always lead to the right research.
 
 I am broadly interested in exploring, understanding, and advancing intrinsic mechanisms and interactional effects of understudied information-based systems and environments, so that they can have the potential to be more viable and helpful at scale in the future.
 
@@ -54,6 +54,7 @@ These are the papers among my works that I can share publicly (you can also try 
 {% for data in site.categories.notes %}
   <p><a href="{{ data.url }}">{{ data.title }}</a>&nbsp;<span style="color: gray; font-size: 0.9em"> {{ data.date | date: "%b %d, %Y" }}</span></p>
 {% endfor %}
+
 
 
 
