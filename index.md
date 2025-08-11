@@ -13,6 +13,8 @@ You can visit my <a href="https://linkedin.com/in/hiun">LinkedIn</a> or <a href=
 
 My email is hiunkim.me [at] gmail.com
 
+<br/>
+
 [work aims]
 
 I am broadly interested in exploring, understanding, and advancing intrinsic mechanisms and interactional effects of understudied information-based systems and environments, so that they can have the potential to be more viable and helpful at scale in the future.
@@ -56,6 +58,7 @@ These are the papers among my works that I can share publicly (you can also try 
 {% for data in site.categories.notes %}
   <p><a href="{{ data.url }}">{{ data.title }}</a>&nbsp;<span style="color: gray; font-size: 0.9em"> {{ data.date | date: "%b %d, %Y" }}</span></p>
 {% endfor %}
+
 
 
 
