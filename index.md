@@ -3,9 +3,7 @@ layout: home
 title: Home
 ---
 
-<!-- <details> <summary>click for the picture</summary> -->
-<img src="/s/img/profile-linkedin-dist-20250801.jpeg" class="profile-img">
-<!-- </details> -->
+{% include profile.html %}
 
 Hiun Kim is a research engineer at Naver Search and Clova team, where he focuses on machine learning, natural language processing, and information retrieval. Previously, he was a software engineer at Naver’s platform team.
 
@@ -58,6 +56,7 @@ These are the papers among my works that I can share publicly (you can also try 
 {% for data in site.categories.notes %}
   <p><a href="{{ data.url }}">{{ data.title }}</a>&nbsp;<span style="color: gray; font-size: 0.9em"> {{ data.date | date: "%b %d, %Y" }}</span></p>
 {% endfor %}
+
 
 
 
