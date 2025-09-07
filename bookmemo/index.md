@@ -1,13 +1,13 @@
 ---
 layout: default
-title: 독후감
+title: 독후감 (book memos)
 permalink: /bookmemo
 ---
 
 
----
 
-2025. 09. 07.
+
+2025-09-07
 시험능력주의 (김동춘, 2022)
 
 
