@@ -53,11 +53,12 @@ These are the papers among my works that I can share publicly (you can also try 
 
 ## misc
 
-- [독후감 (book memos)](/bookmemo)
+[독후감 (book memos)](/bookmemo)
 
 {% for data in site.categories.notes %}
   <p><a href="{{ data.url }}">{{ data.title }}</a>&nbsp;<span style="color: gray; font-size: 0.9em"> {{ data.date | date: "%b %d, %Y" }}</span></p>
 {% endfor %}
+
 
 
 
