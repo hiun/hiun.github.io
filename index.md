@@ -13,9 +13,9 @@ My email is hiunkim.me [at] gmail.com
 
 <br/>
 
-[work aims]
+[some research and development objectives]
 
-I am broadly interested in exploring, understanding, and advancing the intrinsic mechanisms and interactional effects of language-based systems that support human-leading informational tasks, including their understudied long-tail generality, methods, and ecosystemic issues. Aiming for they to have the potential to be more viable and diversely helpful at scale in the future.
+I am broadly interested in exploring, understanding, and advancing the intrinsic mechanisms and interactional effects of language-based systems that support human-leading informational tasks, including their understudied long-tail generality, methods, and ecosystemic issues. Aiming for they to have the potential to be more viable and diversely helpful at scale in the future by studying, planning, and improving the helpfulness of the results in their informational tasks.
 
 Personally, with this, I expect a more equitable world.
 
@@ -58,6 +58,7 @@ These are the papers among my works that I can share publicly (you can also try 
 {% for data in site.categories.notes %}
   <p><a href="{{ data.url }}">{{ data.title }}</a>&nbsp;<span style="color: gray; font-size: 0.9em"> {{ data.date | date: "%b %d, %Y" }}</span></p>
 {% endfor %}
+
 
 
 
