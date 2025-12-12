@@ -1,5 +1,19 @@
 [
   {
+    "subject": "Efficiency and Effectiveness of SPLADE Models on Billion-Scale Web Document Title",
+    "authors": "Taeryun Won, Tae Kwan Lee, Hiun Kim, Hyemin Lee",
+    "venue": "arXiv preprint",
+    "date": "2025",
+    "link": "<a href=\"https://arxiv.org/pdf/2511.22263\">[PDF]</a>"
+  },
+  {
+    "subject": "The Role of Vocabularies in Learning Sparse Representations for Ranking",
+    "authors": "Hiun Kim, Tae Kwan Lee, Taeryun Won",
+    "venue": "arXiv preprint",
+    "date": "2025",
+    "link": "<a href=\"https://arxiv.org/pdf/2509.16621\">[PDF]</a>"
+  },
+  {
     "subject": "Intent-based Product Collections for E-commerce using Pretrained Language Models",
     "authors": "Hiun Kim, Jisu Jeong, Kyung-Min Kim, Dongjun Lee, Hyun Dong Lee, Dongpil Seo, Jeeseung Han, Dong Wook Park, Ji Ae Heo, Rak Yeong Kim",
     "venue": "IEEE International Conference on Data Mining (ICDM) Workshop",
