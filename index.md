@@ -21,6 +21,8 @@ Hiun Kim is an ML engineer on the Naver Search team, working on machine learning
 
 You can also try my [Google Scholar](https://scholar.google.com/citations?hl=en&user=PdyEHY4AAAAJ&view_op=list_works&sortby=pubdate) or [DBLP](https://dblp.org/pid/204/0565.html) profile.
 
+<br />
+
 {% for paper in site.data.papers %}
 <span style="font-weight:bold">{{ paper.subject }}</span>
 <span>{{ paper.authors }}</span>
@@ -62,6 +64,7 @@ I think focusing can be important, but generally, I’d like to prevent research
 {% for data in site.categories.notes %}
   <p><a href="{{ data.url }}">{{ data.title }}</a>&nbsp;<span style="color: gray; font-size: 0.9em"> {{ data.date | date: "%b %d, %Y" }}</span></p>
 {% endfor %}
+
 
 
 
