@@ -7,9 +7,9 @@ title: Home
 
 Hiun Kim is a research engineer at Naver Search and Clova team, where he focuses on machine learning, natural language processing, and information retrieval. Previously, he was a software engineer at Naver’s platform team.
 
-You can visit my <a href="https://linkedin.com/in/hiun">LinkedIn</a>.
+Email: hiunkim.me [at] gmail.com
 
-My email is hiunkim.me [at] gmail.com
+<a href="https://linkedin.com/in/hiun">[LinkedIn]</a>
 
 <br/>
 
@@ -44,7 +44,7 @@ You can also try my [Google Scholar](https://scholar.google.com/citations?hl=en&
 {% endfor %}
 
 
-
+<!--
 ## personal
 
 [some work focuses]
@@ -56,14 +56,20 @@ Aiming for they to have the potential to be more viable and diversely helpful at
 Personally, with this, I expect a more equitable world.
 
 I think focusing can be important, but generally, I’d like to prevent research and development activities from being kept bound to particular approaches or consensus understandings, as that can do work right, but does not always lead to the right work.
+-->
+
 
 ## misc
 
+[daily log](/notes)
+
+<!--
 [독후감 (book memos)](/bookmemo)
 
 {% for data in site.categories.notes %}
   <p><a href="{{ data.url }}">{{ data.title }}</a>&nbsp;<span style="color: gray; font-size: 0.9em"> {{ data.date | date: "%b %d, %Y" }}</span></p>
 {% endfor %}
+-->
 
 
 
