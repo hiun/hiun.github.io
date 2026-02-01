@@ -4,9 +4,9 @@ title: daily log
 permalink: /notes
 ---
 
-<a href="{{ page.link }}#notes" id="notes"><p class="subtitle">daily log</p></a>
+<p class="subtitle">daily log</p>
 
-[독후감 (book memos)](/bookmemo)
+<a herf="/bookmemo">[독후감 (book memos)]</a>
 
 {% for data in site.categories.notes %}
   <p><a href="{{ data.url }}">{{ data.title }}</a>&nbsp;<span style="color: gray; font-size: 0.9em"> {{ data.date | date: "%b %d, %Y" }}</span></p>
