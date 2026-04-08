@@ -4,9 +4,8 @@ title: Home
 ---
 
 <!--
-
-{% include profile.html %}
-
+REPLACE PERCENT to %
+{PERCENT include profile.html PERCENT}
 -->
 
 Hiun Kim is a research engineer at Naver Search and Clova team, where he focuses on machine learning, natural language processing, and information retrieval. Previously, he was a software engineer at Naver’s platform team.
