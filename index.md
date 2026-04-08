@@ -8,16 +8,13 @@ REPLACE PERCENT to %
 {PERCENT include profile.html PERCENT}
 -->
 
-Hiun Kim (김희언)
-Engineer at Naver
-
-Email: hiunkim.me [at] gmail.com
+Email: hiunkim.me [at] gmail.com <br>
 <a href="https://linkedin.com/in/hiun">[LinkedIn]</a> <a href="https://scholar.google.com/citations?hl=en&user=PdyEHY4AAAAJ&view_op=list_works&sortby=pubdate">[Google Scholar]</a> <a href="https://dblp.org/pid/204/0565.html">[DBLP]</a>
 
 ## positions
 
 Naver (Dec. 2017 - Present)
-- Information Systems
+- Information Systems Research and Development
 
 
 <br/>
