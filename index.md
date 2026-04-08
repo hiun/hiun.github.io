@@ -8,11 +8,18 @@ REPLACE PERCENT to %
 {PERCENT include profile.html PERCENT}
 -->
 
-Hiun Kim is a research engineer at Naver Search and Clova team, where he focuses on machine learning, natural language processing, and information retrieval. Previously, he was a software engineer at Naver’s platform team.
+Hiun Kim (김희언)
 
-Email: hiunkim.me [at] gmail.com
-
+Email: hiunkim.me [at] gmail.com <br />
 <a href="https://linkedin.com/in/hiun">[LinkedIn]</a>
+<a href="https://scholar.google.com/citations?hl=en&user=PdyEHY4AAAAJ&view_op=list_works&sortby=pubdate">[Google Scholar]</a>
+<a href="https://dblp.org/pid/204/0565.html">[DBLP]</a>
+
+## positions
+
+Naver (Dec. 2017 - Present)
+- Information Systems
+
 
 <br/>
 
@@ -22,9 +29,7 @@ Hiun Kim is an ML engineer on the Naver Search team, working on machine learning
 
 ## papers
 
-You can also try my [Google Scholar](https://scholar.google.com/citations?hl=en&user=PdyEHY4AAAAJ&view_op=list_works&sortby=pubdate) or [DBLP](https://dblp.org/pid/204/0565.html) profile.
 
-<br />
 
 {% for paper in site.data.papers %}
 <span style="font-weight:bold">{{ paper.subject }}</span>
