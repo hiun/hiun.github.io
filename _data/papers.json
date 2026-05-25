@@ -1,5 +1,12 @@
 [
   {
+    "subject": "The Pre-Training Study of ExpandedSPLADE Models on Web Document Titles",
+    "authors": "Hiun Kim, Tae Kwan Lee, and Taeryun Won",
+    "venue": "arXiv preprint",
+    "date": "2026",
+    "link": "<a href=\"https://arxiv.org/abs/2605.01407\">[PDF]</a>"
+  },
+  {
     "subject": "Efficiency and Effectiveness of SPLADE Models on Billion-Scale Web Document Title",
     "authors": "Taeryun Won, Tae Kwan Lee, Hiun Kim, Hyemin Lee",
     "venue": "arXiv preprint",
